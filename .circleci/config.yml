@@ -49,4 +49,3 @@ workflows:
           requires:
             - testa
             - testb
-
